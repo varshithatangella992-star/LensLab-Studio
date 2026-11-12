@@ -347,3 +347,9 @@ It provides photographer management, camera management and rental management thr
 The project demonstrates database relationships, CRUD operations, validation, search functionality, SQL JOIN, GROUP BY and double-booking prevention.
 
 The system helps manage camera rentals more efficiently and avoids overlapping bookings for the same camera.
+
+## 14. Live Deployment
+
+The LensLab Studio backend is deployed on Render.
+
+**Live URL:** https://lenslab-studio-iiih.onrender.com
