@@ -272,98 +272,34 @@ Important test scenarios include:
 
 ## 11. Project Screenshots
 
-All screenshots are stored in the `screenshots` folder.
+### Home and Health
+![Home](screenshots/home.png)
+![Health](screenshots/health.png)
 
-### 11.1 Home and Health
-
-![Home API](screenshots/home.png)
-
-![Health API](screenshots/health.png)
-
-### 11.2 Photographer APIs
-
-**Get All Photographers**
-
+### Photographer APIs
 ![Get All Photographers](screenshots/get-all-photographers.png)
-
-**Get Photographer by ID**
-
 ![Get Photographer by ID](screenshots/get-photographer-by-id.png)
-
-**Add Photographer**
-
 ![Add Photographer](screenshots/add-photographer.png)
-
-**Update Photographer**
-
 ![Update Photographer](screenshots/update-photographer.png)
-
-**Delete Photographer**
-
 ![Delete Photographer](screenshots/delete-photographer.png)
-
-**Photographer Not Found**
-
 ![Photographer Not Found](screenshots/photographer-not-found.png)
 
-### 11.3 Camera APIs
-
-**Get All Cameras**
-
+### Camera APIs
 ![Get All Cameras](screenshots/get-all-cameras.png)
-
-**Get Camera by ID**
-
 ![Get Camera by ID](screenshots/get-camera-by-id.png)
-
-**Search Cameras by Kind**
-
 ![Search Cameras](screenshots/search-cameras.png)
-
-**Camera Summary Using GROUP BY**
-
 ![Camera Summary](screenshots/camera-summary.png)
-
-**Add Camera**
-
 ![Add Camera](screenshots/add-camera.png)
-
-**Update Camera**
-
 ![Update Camera](screenshots/update-camera.png)
-
-**Camera Not Found**
-
 ![Camera Not Found](screenshots/camera-not-found.png)
 
-### 11.4 Rental APIs
-
-**Add Rental**
-
+### Rental APIs
 ![Add Rental](screenshots/add-rental.png)
-
-**Get All Rentals**
-
 ![Get All Rentals](screenshots/get-all-rentals.png)
-
-**Get Rental by ID**
-
 ![Get Rental by ID](screenshots/get-rental-by-id.png)
-
-**Rental Details Using JOIN**
-
 ![Rental Details JOIN](screenshots/rental-details-join.png)
-
-**Double Booking Prevention**
-
 ![Double Booking Prevention](screenshots/double-booking-prevention.png)
-
-**Rental Validation Error**
-
 ![Rental Validation Error](screenshots/rental-validation-error.png)
-
-**Rental Not Found**
-
 ![Rental Not Found](screenshots/rental-not-found.png)
 
 ## 12. How to Run the Project
